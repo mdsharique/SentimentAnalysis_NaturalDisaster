@@ -12,3 +12,5 @@ Some of our preliminiary work has shown a promising result of using sentiment an
 On the similar ground, we expect to achieve some promising results on implementing sentiment analysis to predict the impact of a natural disaster. We will basically be targeting blogs, forums and twitter to extract data of some recent natural disasters like August 2018 flood in kerala, 2017 Gujurat flood and 2015 Nepal Earthquake.
 
 ## Actual Implementation
+
+![graph](https://user-images.githubusercontent.com/14362968/47568257-47cb9180-d94e-11e8-8995-47a807cd261e.png)
